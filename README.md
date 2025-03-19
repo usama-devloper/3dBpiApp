@@ -15,5 +15,5 @@ For help getting started with Flutter development, view the [online documentatio
 
 [![Instagram](https://img.shields.io/badge/Instagram-Usama_Malik-orange)](https://www.instagram.com/YOUR_USERNAME)
 [![Facebook](https://img.shields.io/badge/Facebook-Usama_Malik-brightgreen)](https://www.facebook.com/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-Usama_Malik-Black)](https://www.twitter.com/YOUR_USERNAME)
+[![Twitter](https://img.shields.io/badge/Twitter-Usama_Malik-black)](https://www.twitter.com/YOUR_USERNAME)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Usama_Malik-brightgreen)](https://www.linkedin.com/in/YOUR_USERNAME)  
